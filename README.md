@@ -1,14 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhacoma&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Follow](https://img.shields.io/github/followers/hacoma?label=Follow)
 
-<h3 align="left"> 👋 Hi there </h3>
+<h3 align="left"> Hi there 👋  </h3>
 
 <p align="left">
 I'm an iOS application developer.</br>
 Interested in implementing complex views, animations and writing readable, flexible code.
 </p>
 
-<h3 align="left"> 🛠 Tech Stack </h3>
+<h3 align="left"> Tech Stack 🛠 </h3>
 
 <h4 align="left"> Platform </h3>
 <p align="left">
@@ -45,7 +45,7 @@ Interested in implementing complex views, animations and writing readable, flexi
   <img src="https://img.shields.io/badge/Buildbot-8977AD?style=flat&logoColor=white"/>&nbsp;
 </p>
 
-<h3 align="left"> 💌 Contact </h3>
+<h3 align="left"> Contact 💌 </h3>
 
 <p align="left">
   <a target="_blank" href="https://hacoma.github.io"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat&logo=Jekyll&logoColor=white"/></a>&nbsp;
